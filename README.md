@@ -15,3 +15,8 @@
 
 - Dashboard KPIs <a href="https://github.com/NhutVuong/Pizza_Sales_Data_Analyst_Dashboard/blob/main/KPI_Pizza_Sale.pdf">View Dashboard</a>
 - Dashboard Best/Worst Pizza Sales <a href="https://github.com/NhutVuong/Pizza_Sales_Data_Analyst_Dashboard/blob/main/Best-Worst_Sales_Pizza.pdf">View Dashboard</a>
+
+## Dashboard
+
+![Pizza Sales Dashboard](https://raw.githubusercontent.com/NhutVuong/Pizza_Sales_Data_Analyst_Dashboard/main/KPI%26Best-Worst_Pizza_Sales.png)
+
