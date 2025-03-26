@@ -1,4 +1,4 @@
-# Pizza_Sales_Data_Analysis_Dashboard
+# Pizza Sales Data Analysis & Visualization
 ## Dataset used
 - <a href="https://github.com/NhutVuong/Pizza_Sales_Data_Analyst_Dashboard/blob/main/pizza_sales.csv">Dataset</a>
 ## KPIs & Sales Overview 
