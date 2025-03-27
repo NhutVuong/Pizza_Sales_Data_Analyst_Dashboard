@@ -29,6 +29,6 @@ DashBoard Power
 ![Pizza Sales Dashboard](https://raw.githubusercontent.com/NhutVuong/Pizza_Sales_Data_Analyst_Dashboard/main/KPI%26Best-Worst_Pizza_Sales.png)
 
 ### 🔹 Tableau Dashboard  
-📊 Xem Dashboard tại đây: [Tableau Public - Pizza Sales Dashboard]([https://public.tableau.com/views/your_dashboard_link](https://public.tableau.com/app/profile/vuong.hoang2738/viz/Pizza_Sale_17430443944430/Home?publish=yes))
+📊 Xem Dashboard tại đây: [Tableau Public - Pizza Sales Dashboard](https://public.tableau.com/app/profile/vuong.hoang2738/viz/Pizza_Sale_17430443944430/Home?publish=yes)
 
 
