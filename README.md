@@ -17,6 +17,8 @@
 ###  **SQL - Querying & Data Cleaning**  
 - Query essential sales insights such as revenue, orders, and trends.  
 - Join multiple datasets for advanced analysis.
+📄 **SQL Queries for Pizza Sales:**  
+[🔗 View SQL File](https://github.com/NhutVuong/Pizza_Sales_Data_Analyst_Dashboard/blob/main/Query_Pizza_Sales.sql)  
 ###  **Excel, Power BI & Tableau - Consistent Visualizations**  
 - The dataset was visualized using **Excel, Power BI, and Tableau**, and the **results were consistent across all three tools**, confirming the accuracy of the analysis.  
 - **Comparison of tools used:**  
@@ -25,10 +27,19 @@
   - **Tableau** – Designed interactive and dynamic visualizations.  
 
 ## Dashboard 
-DashBoard Power
+
 ![Pizza Sales Dashboard](https://raw.githubusercontent.com/NhutVuong/Pizza_Sales_Data_Analyst_Dashboard/main/KPI%26Best-Worst_Pizza_Sales.png)
 
-### 🔹 Tableau Dashboard  
-📊 Xem Dashboard tại đây: [Tableau Public - Pizza Sales Dashboard](https://public.tableau.com/app/profile/vuong.hoang2738/viz/Pizza_Sale_17430443944430/Home?publish=yes)
+## 👀 Watch Dashboard Here  
+
+### 🟢 Excel  
+[🔗 View Excel Dashboard](https://github.com/NhutVuong/Pizza_Sales_Data_Analyst_Dashboard/blob/main/Dashboard_Pizza_Sales.xlsx)  
+
+### 🟡 Power BI  
+[🔗 View Power BI Dashboard](https://github.com/NhutVuong/Pizza_Sales_Data_Analyst_Dashboard/blob/main/Pizza_Sales_Dashboard.pbix)  
+
+### 🔵 Tableau  
+[🔗 View Tableau Dashboard](https://public.tableau.com/app/profile/vuong.hoang2738/viz/Pizza_Sale_17430443944430/Home?publish=yes)  
+
 
 
