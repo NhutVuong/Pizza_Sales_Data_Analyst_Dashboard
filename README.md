@@ -1,7 +1,7 @@
 # 🍕 Pizza Sales Data Analysis & Visualization  
-## Dataset used
+## 📂 Dataset Used  
 - <a href="https://github.com/NhutVuong/Pizza_Sales_Data_Analyst_Dashboard/blob/main/pizza_sales.csv">Dataset</a>
-## KPIs & Sales Overview 
+## 📊 KPIs & Sales Overview 
 - 1.Total Revenue
 - 2.Average Orders Value
 - 3.Total Pizza Sold
