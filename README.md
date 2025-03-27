@@ -41,5 +41,9 @@
 ### 🔵 Tableau  
 [🔗 View Tableau Dashboard](https://public.tableau.com/app/profile/vuong.hoang2738/viz/Pizza_Sale_17430443944430/Home?publish=yes)  
 
+**Summary:** This project integrates **SQL, Excel, Power BI, and Tableau** to analyze and visualize **Pizza Sales data**.  
+**Goal**: To provide insights into sales trends, best-selling products, and optimize business strategies.  
+
+
 
 
