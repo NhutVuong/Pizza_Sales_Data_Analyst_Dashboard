@@ -52,3 +52,4 @@
 - exotic : kì lạ
 - rainforest : rừng nhiệt đới
 - roast : nướng,quay,rang
+- desert : sa mạc
