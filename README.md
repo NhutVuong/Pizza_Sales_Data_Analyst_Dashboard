@@ -50,3 +50,4 @@
 - appreciate : hiểu rõ giá trị,thưởng thức
 - tropical : nhiệt đới
 - exotic : kì lạ
+- rainforest : rừng nhiệt đới
