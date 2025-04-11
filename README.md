@@ -53,3 +53,4 @@
 - rainforest : rừng nhiệt đới
 - roast : nướng,quay,rang
 - desert : sa mạc
+- landscape : phong cảnh
