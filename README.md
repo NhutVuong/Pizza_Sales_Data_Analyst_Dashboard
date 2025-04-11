@@ -49,3 +49,4 @@
 - snow- capped peak : đỉnh núi có bị phủ tuyết
 - appreciate : hiểu rõ giá trị,thưởng thức
 - tropical : nhiệt đới
+- exotic : kì lạ
