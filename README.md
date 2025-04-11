@@ -45,14 +45,3 @@
 **Goal**: To provide insights into sales trends, best-selling products, and optimize business strategies.  
 
 
-- lush forest : rừng um tùm
-- snow- capped peak : đỉnh núi có bị phủ tuyết
-- appreciate : hiểu rõ giá trị,thưởng thức
-- tropical : nhiệt đới
-- exotic : kì lạ
-- rainforest : rừng nhiệt đới
-- roast : nướng,quay,rang
-- desert : sa mạc
-- landscape : phong cảnh
-- cliff : vách đá
-- coast : bờ biển
