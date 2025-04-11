@@ -51,3 +51,4 @@
 - tropical : nhiệt đới
 - exotic : kì lạ
 - rainforest : rừng nhiệt đới
+- roast : nướng,quay,rang
