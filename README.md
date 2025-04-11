@@ -55,3 +55,4 @@
 - desert : sa mạc
 - landscape : phong cảnh
 - cliff : vách đá
+- coast : bờ biển
