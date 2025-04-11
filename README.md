@@ -47,3 +47,4 @@
 
 - lush forest : rừng um tùm
 - snow- capped peak : đỉnh núi có bị phủ tuyết
+- appreciate : hiểu rõ giá trị,thưởng thức
