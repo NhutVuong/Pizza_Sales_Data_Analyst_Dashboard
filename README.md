@@ -54,3 +54,4 @@
 - roast : nướng,quay,rang
 - desert : sa mạc
 - landscape : phong cảnh
+- cliff : vách đá
