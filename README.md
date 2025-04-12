@@ -50,3 +50,4 @@ intimidate : dang so
 element : yeu to
 typically : tieu bieu
 conduct : chi dao
+general : tong quat
