@@ -52,3 +52,4 @@ typically : tieu bieu
 conduct : chi dao
 general : tong quat
 personality : nhan cach, tinh cach
+attribute : thuoc tinh
