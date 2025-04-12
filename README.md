@@ -46,3 +46,4 @@
 
 nervous : lo lang
 in order to get : de co dc
+intimidate : dang so
