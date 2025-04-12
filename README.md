@@ -44,12 +44,3 @@
 **Summary:** This project integrates **SQL, Excel, Power BI, and Tableau** to analyze and visualize **Pizza Sales data**.  
 **Goal**: To provide insights into sales trends, best-selling products, and optimize business strategies.  
 
-nervous : lo lang
-in order to get : de co dc
-intimidate : dang so
-element : yeu to
-typically : tieu bieu
-conduct : chi dao
-general : tong quat
-personality : nhan cach, tinh cach
-attribute : thuoc tinh
