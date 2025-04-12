@@ -49,3 +49,4 @@ in order to get : de co dc
 intimidate : dang so
 element : yeu to
 typically : tieu bieu
+conduct : chi dao
