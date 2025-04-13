@@ -43,9 +43,3 @@
 
 **Summary:** This project integrates **SQL, Excel, Power BI, and Tableau** to analyze and visualize **Pizza Sales data**.  
 **Goal**: To provide insights into sales trends, best-selling products, and optimize business strategies.  
-
-fdsfesrwefsdf
-dsdsfecsaczxcw
-dsdscw
-dsdxcs
-sdsacdswqxzw
